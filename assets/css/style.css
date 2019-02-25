@@ -1,0 +1,77 @@
+body {
+    background-color: #222b46;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.padding {
+    height: 150px;
+}
+
+.image-cropper {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    border: 1px solid white;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    border-radius: 500px;
+    overflow: hidden;
+    -ms-border-radius: 500px;
+    -o-border-radius: 500px;
+}
+
+.btn {
+    margin: 20px;
+}
+.profilepic {
+    float: top;
+    display: block;
+    margin: 0 auto;
+    height: 100%;
+    width: 120%;
+}
+
+.card-title {
+    color: black;
+}
+
+.cardbody {
+    color: black;
+}
+
+.nav-link {
+    color: white;
+}
+
+p {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titles {
+    text-align: center;
+    padding-left: 50px;
+}
+
+.mr-3 {
+    height: 150px;
+}
+
+.table {
+    color: white;
+    text-align: center;
+}
+
+.footer {
+    height: 100px;
+    width: 100%;
+    margin-top: 100px;
+    border-top: solid white 2px;
+    text-align: center;
+}
